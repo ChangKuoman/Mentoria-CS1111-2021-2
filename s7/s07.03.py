@@ -1,6 +1,8 @@
 
 ### EJERCICIO DE PC ###
 
+# Escribe una funcion que reciba dos listas a,b del mismo tamanio y retorne una lista donde el elemento x de la lista a este multiplicado por la suma de los elemento desde 0 a x de la lista b.
+
 def analizar(lista1, lista2):
     nueva_lista = []
     for i in range(len(lista1)):

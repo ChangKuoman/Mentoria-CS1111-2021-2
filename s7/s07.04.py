@@ -1,6 +1,8 @@
 
 ### EJERCICIO ###
 
+# ingresar un numero n e imprimir la suma de la columna n y el mayor de la fila n
+
 matriz = [
     [14, 25, 72, 27],
     [16, 26, 52, 65],

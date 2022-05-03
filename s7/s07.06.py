@@ -1,6 +1,9 @@
 
 ### EJERCICIO DE PC ###
 
+# cree una funcion llamada SplitList que reciba como parametro una lista y un elemento separador, retornara una lista con sublistas
+# separadas por el separador
+
 def SplitList(lista, sep):
     result = []
     sub_lista = []

@@ -1,6 +1,12 @@
 
 ### EJERCICIO ###
 
+# ingrese dos listas, primero pregunte la cantidad de elementos y luego ingresarlos manualmente para ambas listas
+# imprima listas para:
+# * la interseccion de ambas listas sin elementos que se repitan
+# * la diferencia (lista1 - lista2) sin elementos que se repitan
+# * los numeros pares de ambas listas sin elementos que se repitan
+
 valores_lista1 = int(input("Ingrese numero de elementos lista1: "))
 lista1 = []
 for i in range(valores_lista1):

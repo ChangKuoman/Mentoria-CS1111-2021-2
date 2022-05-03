@@ -1,6 +1,9 @@
 
 ### EJERCICIO ###
 
+# ingresar 2 numeros diferentes (validar) cree una funcion sonAmigos y diremos que 2 numeros son amigos si los divisores del
+# primer numero es igual al segundo numero y los divisores del segundo numero es igual al primer numero.
+
 numero1 = int(input("Numero 1: "))
 numero2 = int(input("Numero 2: "))
 while numero1 == numero2:
