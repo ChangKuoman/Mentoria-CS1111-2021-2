@@ -1,0 +1,10 @@
+{
+  "Maria": {
+    "edad": 18,
+    "carrera": "mecanica"
+  },
+  "Jose": {
+    "cursos": 7,
+    "color_favorito": "rojo"
+  }
+}

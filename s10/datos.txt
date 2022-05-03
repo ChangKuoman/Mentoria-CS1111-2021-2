@@ -1,0 +1,9 @@
+Carlos 16
+Maria 18
+Juan 14
+Pedro 16
+Ignacio 12
+Luis 11
+Mario 20
+Fabian 13
+Marcos 14
